@@ -71,5 +71,10 @@
   "cancel": "Cancel",
   "generateReport": "Generate Report",
   "view": "View",
-  "review": "Review"
+  "review": "Review",
+  "confirm": "Confirm",
+  "waiting": "Wait...",
+  "error": "Error",
+  "downloadInvoice": "Download Invoice",
+  "qrCode": "QR Code"
 }

@@ -71,5 +71,10 @@
   "viewDirections": "رؤية الإتجاهات",
   "vision": "الرؤية",
   "review": "مراجعة",
-  "done": "تم"
+  "done": "تم",
+  "confirm": "تأكيد",
+  "waiting": "انتظر قليلاً",
+  "error": "خطأ",
+  "downloadInvoice": "تنزيل الفاتورة",
+  "qrCode": "رمز الـQR"
 }
